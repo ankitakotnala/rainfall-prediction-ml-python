@@ -1,4 +1,4 @@
-#Rainfall Prediction App Using Machine Learning in Python
+# Rainfall Prediction App Using Machine Learning in Python
 
 This project predicts whether rainfall will occur using machine learning classification models based on historical weather data.
 
